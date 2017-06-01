@@ -13,7 +13,7 @@ of the `/dev/night`s codebases, issue trackers, chatrooms, and mailing lists.
 
 #### Step 1: Submit a talk suggestion
 
-Submit your talk suggestion as an [issue] in our [talks] project. The __title__ shouldn't be longer than __20 characters__.<br>
+Submit your talk suggestion as an [issue] in our [talks] project. The __title__ shouldn't be longer than __100 characters__.<br>
 Please include the following in the description:
 * `Speaker`
     - If you search for a speaker please enter in: `*NEEDED*`
