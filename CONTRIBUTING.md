@@ -63,6 +63,9 @@ The suggestion has to meet the following criteria to get approved.
 
 :heavy_exclamation_mark: __Note:__ The numbers can be subject to change.
 
+#### Step 4: Arranging the talk
+
+The [maintainers] will contact you through the email address you provided and arrange the talk with you.
 
 [issue]: https://github.com/dev-night/talks/issues
 [code of conduct]: https://tradebyte.github.io/Code-of-Conduct/
