@@ -67,6 +67,28 @@ The suggestion has to meet the following criteria to get approved.
 
 The [maintainers] will contact you through the email address you provided and arrange the talk with you.
 
+#### Step 5: Providing the slides
+
+You can either __add a comment__ to your initial __issue__ suggesting the talk and add a link to your sildes. Or you can make a [__pull-request__](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) including the following:
+
+* Add your slides to the event folder inside the `sildes` directory.
+* Explain how you can view/open the slides in the `READEME.md` file.
+* If there isn't already a folder for the event, please make one as well. These are the conventions:
+    - The folder for the event has to reside in the `slides/<year>` folder.
+    - The folder name consitst of `<event number>_<event tile>`.
+
+##### Example
+
+```
+slides
+└── 2017
+    └── 010_webweek-special
+        └── README.md
+```
+
+:heavy_exclamation_mark: __Note:__ By adding your slides you agree to release them under the [_Creative Commons Attribution Share Alike 4.0_](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+
 [issue]: https://github.com/dev-night/talks/issues
 [code of conduct]: https://tradebyte.github.io/Code-of-Conduct/
 [talks]: https://github.com/dev-night/talks
