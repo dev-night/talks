@@ -54,12 +54,8 @@ Everyone can react to a suggestion with an emoji. Most likely thumps up or down.
 
 The suggestion has to meet the following criteria to get approved.
 
-1. The talk has to have at least __2__ positive reactions[1] to it.
+1. The talk has to have at least __2__ positive reactions to it. (:thumbsup: :smile: :tada: :hearts:)
 2. The talk has to be tagged with the `approved` label from at least one of the [maintainers].
-
-[1]: These are "positive" reactions:<br>
-:thumbsup: :smile: :tada: :hearts:
-
 
 :heavy_exclamation_mark: __Note:__ The numbers can be subject to change.
 
