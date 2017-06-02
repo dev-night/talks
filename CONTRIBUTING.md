@@ -48,10 +48,23 @@ Please include the following in the description:
 
 Everyone can react to a suggestion with an emoji. Most likely thumps up or down. If you have questions you are also welcome to comment.
 
-![workflow](https://raw.github.com/dev-night/talks/master/assets/img/reactions.png "React with emojis.")
+![reactions](https://raw.github.com/dev-night/talks/master/assets/img/reactions.png "React with emojis.")
 
+#### Step 3: The talk suggestion gets approved
+
+The suggestion has to meet the following criteria to get approved.
+
+* The talk has to have at least __2__ positive reactions[1] to it.
+* The talk has to be tagged with the `approved` label from at least one of the [maintainers].
+
+[1]: These are "positive" reactions:
+![positive](https://raw.github.com/dev-night/talks/master/assets/img/positive.jpg "Positive reactions.")
+
+
+Note: The numbers can be subject to change.
 
 
 [issue]: https://github.com/dev-night/talks/issues
 [code of conduct]: https://tradebyte.github.io/Code-of-Conduct/
 [talks]: https://github.com/dev-night/talks
+[maintainers]: MAINTAINERS.md
