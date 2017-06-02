@@ -12,6 +12,11 @@ Thank you, [speakers]!
 The `/dev/night` project is maintained by our [maintainers] and sponsored by the Tradebyte Software GmbH. <br/>
 The names and logos for the `talks` project are trademarks of their respective creators.
 
+## Attribution
+
+- [GitHub Octicons](https://github.com/primer/octicons) in some `assets`
+- [Gravit Designer](https://designer.io/) to create some `assets`
+
 ## Licensing
 
 This `talks` project is licensed under the __Creative Commons Attribution Share Alike 4.0__. See [LICENSE] for the full license text.
