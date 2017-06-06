@@ -1,6 +1,4 @@
 ### Backend
-* RabbitMQ, Kafka,
-* GO
 * Rust
 * Bots (Chat)
 * REST (Swagger)
