@@ -62,7 +62,7 @@ The suggestion has to meet the following criteria to get approved.
 
 #### Step 4: Arranging the talk
 
-The [maintainers] will contact you through the email address you provided and arrange the talk with you.
+The [maintainers] will contact you through the email address you provided and arrange the talk with you. You will also be added as a collaborator to the project and the issue for your talk will be assigned to you.
 
 #### Step 5: Providing the slides
 
