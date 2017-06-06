@@ -1,10 +1,3 @@
-### Frontend
-* ReactJS
-* AngularJS
-* CSS Grid
-* Vue.js
-* Elm
-
 ### Backend
 * RabbitMQ, Kafka,
 * GO
@@ -33,7 +26,3 @@
 * Xamarin
 * How to Github-Pages
 * Reveal.js Presentation
-
--> Github Repo mit Issues
--> README.md = Anleitung
--> Twitter, Meetup Event & HP
