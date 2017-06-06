@@ -1,6 +1,6 @@
 # #010 /dev/night - WebWeek Special (2017-05-16)
 
-All slides from the event are can be out here.
+All slides from the event will be shared here.
 
 
 ## Slides "Good test bad test"
