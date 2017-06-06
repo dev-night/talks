@@ -17,8 +17,7 @@ Submit your talk suggestion as an [issue] in our [talks] project. The __title__ 
 Please include the following in the description:
 * `Speaker`
     - If you search for a speaker please enter in: `*NEEDED*`
-* `Email`
-    - The [maintainers] need a way to reach you and arrange the talk.
+    - If you enter in yourself or someone you know please provide an email address for the [maintainers] to reach you and arrange the talk.
 * `Duration` (optional)
     - The talk shouldn't exceed __1h__.
     - Please use `m` for minutes and `h` for hour.
@@ -33,15 +32,13 @@ Please include the following in the description:
 ##### Essential template
 
 ```
-* **Speaker**: <@niklas-heer|*NEEDED*>
-* **Email**: niklas.heer@gmail.com
+* **Speaker**: Niklas Heer (niklas.heer@gmail.com)
 * **Description**: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea tak
 ```
 
 ##### Full template
 ```
-* **Speaker**: <@niklas-heer|*NEEDED*>
-* **Email**: niklas.heer@gmail.com
+* **Speaker**: Niklas Heer (niklas.heer@gmail.com)
 * **Duration**: 45m
 * **Date**: 2017-06-13
 * **Slides**: http://slides.com/martinjainta/unittests-good-test-bad-test#/
