@@ -1,8 +1,3 @@
-### Backend
-* Rust
-* Bots (Chat)
-* REST (Swagger)
-
 ### Ops
 * AWS
 * Docker
