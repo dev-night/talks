@@ -1,7 +1,5 @@
 ### Ops
-* AWS
 * Docker
-* Caddy (Webserver)
 * HTTP/2
 * QUIC (Googles schnelleres HTTP/2)
 * Puppet/Ansible
