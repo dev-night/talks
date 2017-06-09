@@ -11,6 +11,10 @@ of the `/dev/night`s codebases, issue trackers, chatrooms, and mailing lists.
 
 ## Contributing a talk
 
+#### General Overview
+
+![workflow](https://raw.github.com/dev-night/talks/master/assets/img/workflow.png "/dev/night talk workflow.")
+
 #### Step 1: Submit a talk suggestion
 
 Submit your talk suggestion as an [issue] in our [talks] project. The __title__ shouldn't be longer than __100 characters__.<br>
