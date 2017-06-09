@@ -1,7 +1,8 @@
 ![workflow](https://raw.github.com/dev-night/talks/master/assets/img/workflow.png "/dev/night talk workflow.")
 
 ---
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/dev_night/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Meetup.com](https://img.shields.io/badge/meet-on%20Meetup-green.svg)](https://www.meetup.com/de-DE/dev_night/) [![Twitter Follow](https://img.shields.io/twitter/follow/dev_night.svg?style=social&label=Follow)](https://twitter.com/dev_night)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/dev_night/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Meetup.com](https://img.shields.io/badge/meet-on%20Meetup-green.svg)](https://www.meetup.com/de-DE/dev_night/) [![Twitter Follow](https://img.shields.io/twitter/follow/dev_night.svg?style=social&label=Follow)](https://twitter.com/dev_night) <br>
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 
 ## Contributing
 
