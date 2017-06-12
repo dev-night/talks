@@ -1,0 +1,6 @@
+[submodule "slides/2017/011_introduction-to-elm/slides-repo"]
+	path = slides/2017/011_introduction-to-elm/slides-repo
+	url = git@github.com:stesie/elm-talk.git
+[submodule "slides/2017/011_introduction-to-elm/elm-nibbles"]
+	path = slides/2017/011_introduction-to-elm/elm-nibbles
+	url = git@github.com:stesie/elm-nibbles.git
