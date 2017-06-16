@@ -13,7 +13,7 @@ of the `/dev/night`s codebases, issue trackers, chatrooms, and mailing lists.
 
 #### General Overview
 
-![workflow](https://raw.github.com/dev-night/talks/master/assets/img/workflow.png "/dev/night talk workflow.")
+![workflow](https://raw.github.com/dev-night/talks/master/.github/images/workflow.png "/dev/night talk workflow.")
 
 #### Step 1: Submit a talk suggestion
 
@@ -53,7 +53,7 @@ Please include the following in the description:
 
 Everyone can react to a suggestion with an emoji. Most likely thumps up or down. If you have questions you are also welcome to comment.
 
-![reactions](https://raw.github.com/dev-night/talks/master/assets/img/reactions.png "React with emojis.")
+![reactions](https://raw.github.com/dev-night/talks/master/.github/images/reactions.png "React with emojis.")
 
 #### Step 3: The talk suggestion gets approved
 
