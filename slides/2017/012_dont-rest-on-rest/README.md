@@ -2,8 +2,11 @@
 
 All slides from the event will be shared here.
 
-## [General Slide](http://slides.com/nheer/devnight-welcome#/)
+### [General Slide](http://slides.com/nheer/devnight-welcome#/)
 
-## Introduction to REST
+### Introduction to REST
 By: [Niklas Heer](https://github.com/niklas-heer) </br>
 Presentation: [slides.com/nheer/rest-introduction](http://slides.com/nheer/rest-introduction#/)
+
+### Results from polls
+- [What one word would you use to describe REST?](https://www.polleverywhere.com/free_text_polls/0Wi5LlYOTn4BlVH?preview=true)
