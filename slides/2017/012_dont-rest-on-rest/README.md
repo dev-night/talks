@@ -8,6 +8,10 @@ All slides from the event will be shared here.
 By: [Niklas Heer](https://github.com/niklas-heer) </br>
 Presentation: [slides.com/nheer/rest-introduction](http://slides.com/nheer/rest-introduction#/)
 
+### Introduction to Swagger
+By: [Fabian Ihl](https://github.com/Akuryou) <br/>
+Presentation: [akuryou.github.io/introduction-to-swagger](http://akuryou.github.io/introduction-to-swagger/#/)
+
 ### Results from polls
 - [What one word would you use to describe REST?](https://www.polleverywhere.com/free_text_polls/0Wi5LlYOTn4BlVH?preview=true)
 - [Which is correct?](https://www.polleverywhere.com/multiple_choice_polls/81r5nKy49heBilD?preview=true)
