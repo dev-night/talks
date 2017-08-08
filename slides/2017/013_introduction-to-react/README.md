@@ -4,7 +4,7 @@ All slides from the event will be shared here.
 
 ## Commands
 
-```
+```bash
 mkdir todo_app
 cd todo_app
 npm init
