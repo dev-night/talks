@@ -8,3 +8,4 @@ By: [Jochen Christ](https://github.com/jochenchrist)
     - https://github.com/jochenchrist/simple-todo-service
     - https://github.com/jochenchrist/simple-todo-web
 - Book about Docker: https://leanpub.com/dockerdeepdive
+- Play with Docker: http://labs.play-with-docker.com/
