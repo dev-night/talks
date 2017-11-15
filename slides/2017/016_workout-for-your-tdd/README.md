@@ -1,6 +1,6 @@
 # #016 /dev/night - Workout for your TDD (2017-11-14)
 
-All slides from the event will be shared here.
+Slides are hosted here: http://slides.com/martinjainta-1/workout-for-your-tdd#/
 
 ## Notes from the speaker
 
