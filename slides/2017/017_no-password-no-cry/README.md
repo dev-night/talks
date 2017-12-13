@@ -1,3 +1,5 @@
-# #017 /dev/night - Workout for your TDD (2017-12-12)
+# #017 /dev/night - No password no cry (2017-12-12)
  
-All slides from the event will be shared here.
+By: [Jochen Christ](https://github.com/jochenchrist)
+
+- Slides: http://slides.com/jochenchrist/passwordfree-devnight#/
