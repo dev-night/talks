@@ -2,4 +2,4 @@
 
 By: [Niklas Heer](https://github.com/niklas-heer)
 
-Slides: 
+Slides: https://slides.com/nheer/twisted-game-of-life
