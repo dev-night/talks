@@ -7,21 +7,21 @@
 
 ### 1. Messaging Queues 
 
-By: Stanislau Saprankou
+By: Stanislau Saprankou <br>
 Sildes:
 
 ### 2. Who locked my column? A look into MySQL transaction handling
 
-By: Andreas Rodriguez Rivera
+By: Andreas Rodriguez Rivera <br>
 Slides: http://slides.com/andreasrodriguezrivera/wholockedmycolumn#/
 
 ### 3. De-Lisptifying Monads
 
-By: Emmanuel-Jelome Fonseca
+By: Emmanuel-Jelome Fonseca <br>
 Slides:
 
 ### 4. Pirates favorite language - R
 
-By: Niklas Heer
-Slides: http://slides.com/nheer/r-lang#/
-Code: https://github.com/niklas-heer/learning-r
+By: Niklas Heer <br>
+Slides: http://slides.com/nheer/r-lang#/ <br>
+Code: https://github.com/niklas-heer/learning-r <br>
