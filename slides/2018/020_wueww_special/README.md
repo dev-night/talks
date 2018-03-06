@@ -22,6 +22,6 @@ Slides:
 
 ### 4. Pirates favorite language - R
 
-By: Niklas Heer <br>
+By: [Niklas Heer](https://github.com/niklas-heer) <br>
 Slides: http://slides.com/nheer/r-lang#/ <br>
 Code: https://github.com/niklas-heer/learning-r <br>
