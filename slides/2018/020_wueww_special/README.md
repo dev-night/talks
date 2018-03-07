@@ -18,7 +18,7 @@ Slides: http://slides.com/andreasrodriguezrivera/wholockedmycolumn#/
 ### 3. De-Lisptifying Monads
 
 By: Emmanuel-Jelome Fonseca <br>
-Slides:
+Slides: http://slides.com/ejelome/de-lisptifying-monads#/
 
 ### 4. Pirates favorite language - R
 
