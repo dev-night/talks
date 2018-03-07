@@ -25,3 +25,9 @@ Slides: http://slides.com/ejelome/de-lisptifying-monads#/
 By: [Niklas Heer](https://github.com/niklas-heer) <br>
 Slides: http://slides.com/nheer/r-lang#/ <br>
 Code: https://github.com/niklas-heer/learning-r <br>
+
+---
+
+## Recordings
+
+We also recorded the event. You can watch the whole thing here: https://www.youtube.com/watch?v=i2mZO5XJq6w
