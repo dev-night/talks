@@ -5,10 +5,10 @@
 
 ## Talks
 
-### 1. Messaging Queues 
+### 1. Message Queues 
 
 By: Stanislau Saprankou <br>
-Sildes:
+Sildes: http://slides.com/stanislau/message-queues-and-more
 
 ### 2. Who locked my column? A look into MySQL transaction handling
 
