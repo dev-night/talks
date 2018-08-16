@@ -9,6 +9,8 @@ List of videos from the conference: https://github.com/sploitable/EuroPython-201
 
 * Presenter: [@niklas-heer](https://github.com/niklas-heer)
 * Slides: [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Niklas-Heer.pdf)
+* Presenter: [@akuryou](https://github.com/akuryou)
+* Slides: [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Fabian-Ihl.pdf)
 
 ### Mentioned talks for the EuroPython conference
 
