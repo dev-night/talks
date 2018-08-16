@@ -5,7 +5,7 @@ By: Fabian, Goran and Niklas
 
 List of videos from the conference: https://github.com/sploitable/EuroPython-2018-Conference-Talk-Videos
 
-## Talks by Niklas
+## The talk from Niklas
 
 * Presenter: [@niklas-heer](https://github.com/niklas-heer)
 * Slides: [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Niklas-Heer.pdf)
