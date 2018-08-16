@@ -1,6 +1,6 @@
 # #025 /dev/night - EuroPython 2018 Recap
 
-By: Fabian ([@akuryou](https://github.com/akuryou)), Goran and Niklas ([@niklas-heer](https://github.com/niklas-heer))
+By: Fabian ([@akuryou](https://github.com/akuryou)), Goran ([@gcetusic](https://github.com/gcetusic)) and Niklas ([@niklas-heer](https://github.com/niklas-heer))
 
 
 List of videos from the conference: https://github.com/sploitable/EuroPython-2018-Conference-Talk-Videos
