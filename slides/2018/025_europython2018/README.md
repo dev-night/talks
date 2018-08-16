@@ -1,6 +1,6 @@
 # #025 /dev/night - EuroPython 2018 Recap
 
-By: Fabian ([@akuryou](https://github.com/akuryou)), Goran and Niklas ([@niklas-heer](https://github.com/niklas-heer))
+By: Fabian ([@akuryou](https://github.com/akuryou)), Goran ([@gcetusic](https://github.com/gcetusic)) and Niklas ([@niklas-heer](https://github.com/niklas-heer))
 
 
 List of videos from the conference: https://github.com/sploitable/EuroPython-2018-Conference-Talk-Videos
@@ -8,6 +8,8 @@ List of videos from the conference: https://github.com/sploitable/EuroPython-201
 ## Slides
 * [@niklas-heer](https://github.com/niklas-heer): [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Niklas-Heer.pdf)
 * [@akuryou](https://github.com/akuryou): [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Fabian-Ihl.pdf)
+* [@gcetusic](https://github.com/gcetusic): [PDF](https://raw.githubusercontent.com/dev-night/talks/master/slides/2018/025_europython2018/EuroPython2018_Goran-Cetusic.pdf)
+
 
 ## Mentioned talks from the EuroPython conference
 
@@ -29,5 +31,13 @@ List of videos from the conference: https://github.com/sploitable/EuroPython-201
 | PEP 557 versus the world                                                       | [Youtube](https://youtu.be/Uw717sejn5c?t=5h14m58s) | [@akuryou](https://github.com/akuryou)         |
 | Getting Started with Mypy and Type Checking                                    | [Youtube](https://youtu.be/Uw717sejn5c?t=5h14m58s) | [@akuryou](https://github.com/akuryou)         |
 | Postgres at any scale                                                          | [Youtube](https://youtu.be/qRqDgJLM568?t=50m39s)   | [@akuryou](https://github.com/akuryou)         |
-
-
+| Reliability of Distributed Systems                                             | [Youtube](https://youtu.be/FsvmT2Ir7B8?t=2h16m40s) | [@gcetusic](https://github.com/gcetusic)        |
+| Asyncio in Production                                                          | [Youtube](https://youtu.be/qRqDgJLM568?t=4h54m24s) | [@gcetusic](https://github.com/gcetusic)        |
+| Deep Learning with PyTorch for fun and profit                                  | [Youtube](https://youtu.be/nDY82RGU2Xk?t=16m22s)   | [@gcetusic](https://github.com/gcetusic)        |
+| When to use Machine Learning: Tips, Tricks and Warnings                        | [Youtube](https://youtu.be/nDY82RGU2Xk?t=1h6m19s)  | [@gcetusic](https://github.com/gcetusic)        |
+| Asyncio in practice: We Did It Wrong                                           | [Youtube](https://youtu.be/8E0VDH_UKuA?t=3h42m20s) | [@gcetusic](https://github.com/gcetusic)        |
+| Industrial Machine Learning Pipelines with Python and Airflow                  | [Youtube](https://youtu.be/nDY82RGU2Xk?t=4h21m5s)  | [@gcetusic](https://github.com/gcetusic)        |
+| The Web is terrifying! Using PyData stack to spy on spies                      | [Youtube](https://youtu.be/tG22jrVFKpM?t=5h17m15s) | [@gcetusic](https://github.com/gcetusic)        |
+| Having fun with music and Keras                                                | [Youtube](https://youtu.be/6Wurg6JbL3E?t=1h42m29s) | [@gcetusic](https://github.com/gcetusic)        |
+| Lies, damned lies, and statistics                                              | [Youtube](https://youtu.be/x5tcYO-SVnc?t=4h6m51s)  | [@gcetusic](https://github.com/gcetusic)        |
+| Productionizing your ML Code seamlessly                                        | [Youtube](https://youtu.be/x5tcYO-SVnc?t=5h1m46s)  | [@gcetusic](https://github.com/gcetusic)        |
