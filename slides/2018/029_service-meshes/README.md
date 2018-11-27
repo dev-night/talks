@@ -1,4 +1,4 @@
-# #029 /dev/night - Stairway to service mesh
+# #029 /dev/night - Stairway to Service Mesh
 
 By: [Stefan](https://twitter.com/stesie23)
 
