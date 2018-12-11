@@ -17,3 +17,21 @@ $ kubectl apply -f install/kubernetes/helm/helm-service-account.yaml
 $ helm init --service-account tiller
 $ helm install install/kubernetes/helm/istio --name istio --namespace istio-system --set servicegraph.enabled=true --set tracing.enabled=true
 ```
+
+## Slides
+
+[Rendered version of the slides](https://stesie.github.io/istio-talk-en/)
+
+Sources available from https://github.com/stesie/istio-talk-en/.
+
+## Workshop
+
+Material of the workshop on Gitlab at https://git.mayflower.de/stefan.siegl/istio-workshop/.
+
+Copy & paste git clone command:
+
+```
+git clone https://git.mayflower.de/stefan.siegl/istio-workshop.git
+```
+
+... within the repository you'll find another README.md with further instructions.
