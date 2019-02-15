@@ -20,7 +20,8 @@ func main() {
 	for i := 0; i < coffeeCount; i++ {
 		waitGroup.Add(1)
 		go func(i int) {
-			makeCoffee(i+1, coffeeFinished[i])
+			go makeCoffee(i+1, coffeeFinished[i])
+			<-coffeeFinished[i]
 			waitGroup.Done()
 		}(i)
 
@@ -43,34 +44,30 @@ func runAbortScreen(isAbort [coffeeCount]chan bool) {
 }
 
 func makeCoffee(number int, isFinished chan bool) {
-	go func(number int, isFinished chan bool) {
-		select {
-		case <-isFinished:
-			return
-		default:
-			fmt.Println("Making coffee #", number)
-			grindBeans(number)
-		}
+	select {
+	case <-isFinished:
+		return
+	default:
+		fmt.Println("Making coffee #", number)
+		grindBeans(number)
+	}
 
-		select {
-		case <-isFinished:
-			return
-		default:
-			prepareCoffee(number)
-		}
+	select {
+	case <-isFinished:
+		return
+	default:
+		prepareCoffee(number)
+	}
 
-		select {
-		case <-isFinished:
-			return
-		default:
-			steamMilk(number)
-		}
+	select {
+	case <-isFinished:
+		return
+	default:
+		steamMilk(number)
+	}
 
-		fmt.Println("Coffee #", number, " is ready!")
-		isFinished <- true
-	}(number, isFinished)
-
-	<-isFinished
+	fmt.Println("Coffee #", number, " is ready!")
+	isFinished <- true
 }
 
 func grindBeans(number int) {
