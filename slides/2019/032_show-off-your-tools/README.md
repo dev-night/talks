@@ -1,6 +1,6 @@
 # #032 /dev/night - Show off your tools
 
-## The notes from [@niklas_heer](https://twitter.com/niklas_heer)
+## Notes from [@niklas_heer](https://twitter.com/niklas_heer)
 
 - [**Slides**](https://slides.com/nheer/devnight-032-slides)
 - Tools:
@@ -49,7 +49,7 @@ Tools:
 
 - [Chrome DevTools audit / Lighthouse](https://developers.google.com/web/tools/lighthouse/) is an open-source, automated tool for improving the quality of web pages.
 
-## Notes from [Jakob]()
+## Notes from Jakob
 
 Tools:
 
