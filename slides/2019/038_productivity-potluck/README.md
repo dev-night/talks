@@ -5,4 +5,4 @@
 	* [Niklas](https://twitter.com/niklas_heer)
 		* Slides
 			* iCloud: https://www.icloud.com/keynote/0O5VScFqqk_F3XNVsuSBIhUuQ#%23038_%2Fdev%2Fnight_-_02_Being_Productive
-			* PDF: https://raw.githubusercontent.com/dev-night/talks/master/slides/2019/038_productivity-potluck/Being_Productive.pdf
+			* PDF: https://github.com/dev-night/talks/raw/master/slides/2019/038_productivity-potluck/Being_Productive.pdf
