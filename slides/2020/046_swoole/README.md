@@ -2,3 +2,4 @@
 
 * Meetup.com: https://www.meetup.com/de-DE/dev_night/events/272402377
 * Speaker: [Juan](https://github.com/juan-morales)
+* Slides: [PDF](dev-night __ SWOOLE __ 20200818.pdf)
