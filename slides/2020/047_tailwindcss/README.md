@@ -2,3 +2,4 @@
 
 * Meetup.com: https://www.meetup.com/de-DE/dev_night/events/273160353/
 * Speaker: [Ramesh](https://twitter.com/mhetreramesh)
+* Slides: [https://speakerdeck.com/mhetreramesh/setting-sail-with-tailwindcss](https://speakerdeck.com/mhetreramesh/setting-sail-with-tailwindcss)
